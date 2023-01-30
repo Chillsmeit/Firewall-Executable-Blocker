@@ -4,7 +4,7 @@
 
 This batch script will automatically block executables from acessing the internet.<br>
 It automatically detects .exe files in the same directory you run it from and its subdirectories.<br>
-It will add rules to the windows firewall with the .exe name, blocking outbound and inbound connections.<br>
+It will add rules to the windows firewall with the executable name, blocking outbound and inbound connections.<br>
 <br>
 <br>
 **Example:**<br>
