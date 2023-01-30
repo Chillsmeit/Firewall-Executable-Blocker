@@ -10,7 +10,7 @@ It will add rules to the windows firewall with the executable name, blocking out
 **Example:**<br>
 
 If I run the script in ```C:\Users\<yourusernamehere\Downloads``` it will automatically block any .exe it finds in this directory and subdirectories.<br>
-So if you have **any other folder inside downloads** any .exe inside it will also be blocked<br>
+So if you have **any other folder inside downloads**, the .exe inside it will also be blocked<br>
 <br>
 <br>
 **Real use case scenario:**<br>
