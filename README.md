@@ -9,4 +9,4 @@ It will add rules to the windows firewall with the .exe name, blocking outbound 
 Example:
 
 If I run the script in ```c:\users\<yourusernamehere\downloads``` it will automatically block any .exe it finds in this directory and subdirectories.
-So if you have any other folder inside **downloads** any .exe inside it will also be blocked
+So if you have **any other folder inside downloads** any .exe inside it will also be blocked
