@@ -17,4 +17,4 @@ So if you have **any other folder inside downloads** any .exe inside it will als
 
 Razer Synapse is known for being bloatware software, if you want to block it from acessing the Internet you would do:<br>
 Drop the script inside ```C:\Program Files (x86)\Razer``` and run it. It will grab any .exe it finds<br> 
-Or if only want to block synapse executables, you'd drop it inside ```C:\Program Files (x86)\Razer\Synapse3``` instead.
+Or, if you only want it to block synapse executables, you'd drop it inside ```C:\Program Files (x86)\Razer\Synapse3``` instead.
