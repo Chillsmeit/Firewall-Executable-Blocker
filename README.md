@@ -1,5 +1,7 @@
 # Firewall-Executable-Blocker
 
+**What it does:**
+
 This batch script will automatically block executables from acessing the internet.<br>
 It automatically detects .exe files in the same directory you run it and subdirectories.<br>
 It will add rules to the windows firewall, blocking outbound and inbound connections.<br>
