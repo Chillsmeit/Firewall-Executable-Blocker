@@ -39,7 +39,7 @@ cls
 color 04
 echo    ::::::::::::::::::::::::::::::::::::::::::::
 echo    ::         Adding Firewall Rules          ::
-echo    ::              Please wait               ::
+echo    ::              Please wait               
 echo    ::           May take a while             ::
 echo    ::::::::::::::::::::::::::::::::::::::::::::
 timeout 1 >nul
