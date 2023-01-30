@@ -8,7 +8,7 @@ It will add rules to the windows firewall with the .exe name, blocking outbound 
 
 Example:<br>
 
-If I run the script in ```C:\users\<yourusernamehere\Downloads``` it will automatically block any .exe it finds in this directory and subdirectories.<br>
+If I run the script in ```C:\Users\<yourusernamehere\Downloads``` it will automatically block any .exe it finds in this directory and subdirectories.<br>
 So if you have **any other folder inside downloads** any .exe inside it will also be blocked<br>
 
 Real use case scenario:<br>
